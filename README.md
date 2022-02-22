@@ -1,7 +1,7 @@
 # golden_sneaker
  
  
-### To use this app on Web follow below instructions-:
+### To use this app on Web(NOT mobile) follow below instructions-:
 
 1. Clone this app using below syntax -:
 
